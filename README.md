@@ -1,2 +1,3 @@
 # Student_Returning_Scheduler
-CS202 Project
+
+Developed the backend of a website that streamlines students campus return requests with an efficient
